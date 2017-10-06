@@ -1,3 +1,3 @@
 module.exports = {
-    'auth_secret': 'carpetcatterpillarcranecrayon'
+    'auth_secret': 'newsecretwordphrasecake'
 };
